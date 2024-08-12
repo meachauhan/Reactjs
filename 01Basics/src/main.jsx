@@ -5,7 +5,7 @@ import './index.css'
 
 const evaluatedExpression="this is a String"
 
-// Creating element without using HTML
+// Creating element without using HTML (Babbel injects the element )
 const reactElement=React.createElement(
   'a',
   {href:'https://google.com',target:'_blank'},
