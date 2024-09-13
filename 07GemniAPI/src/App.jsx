@@ -11,6 +11,7 @@ function App() {
         <input type="text" name="query" id="query" 
         className="m-10 w-3/6 py-5 px-4 outline-none text-blue-200  bg-gray-700 rounded-3xl overflow-hidden"
         placeholder="Enter your query" />
+        <input type="button" value="Send" className=" w-1/6 py-3 outline-none text-white text-2xl font-bold cursor-pointer bg-blue-900 rounded-3xl"/>
       
         
       
